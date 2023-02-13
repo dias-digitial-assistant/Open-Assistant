@@ -52,19 +52,6 @@ export function Footer() {
                 <FooterLink href="/privacy-policy" label={t("privacy_policy")} />
                 <FooterLink href="/terms-of-service" label={t("terms_of_service")} />
               </Flex>
-              <Flex direction="column" alignItems={["center", "start"]}>
-                <Text fontWeight="bold" color={textColor}>
-                  {t("connect")}
-                </Text>
-                <FooterLink href="https://github.com/LAION-AI/Open-Assistant" label={t("github")} />
-                <FooterLink href="https://ykilcher.com/open-assistant-discord" label={t("discord")} />
-              </Flex>
-              <Flex direction="column" alignItems={["center", "start"]}>
-                <Text fontWeight="bold" color={textColor}>
-                  {t("about")}
-                </Text>
-                <FooterLink href="https://projects.laion.ai/Open-Assistant" label={t("docs")} />
-              </Flex>
             </Box>
           </nav>
         </Box>
