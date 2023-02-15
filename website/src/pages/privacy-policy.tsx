@@ -64,24 +64,18 @@ const PrivacyPolicy = () => {
     {
       number: "2",
       title: "Responsible Controller",
-      desc: "Responsible controller is: LAION e.V., Herman-Lange-Weg 26, 21035 Hamburg, Germany",
+      desc: "Responsible controller is: Hochschule für angewandte Wissenschaften Ansbach, Residenzstraße 8, 91522 Ansbach",
       sections: [],
     },
     {
       number: "3",
       title: "Data We Collect",
-      desc: "Open Assistant tracks data in the following conditions",
+      desc: "This Tool tracks data in the following conditions",
       sections: [
         {
           number: "3.1",
-          title: "Using the Discord Bot",
-          desc: "When using the Open Assistant Discord bot, we privately track and store the unique Discord ID of the user submitting responses. Each submitted response is associated with the user’s Discord ID.",
-        },
-        {
-          number: "3.2",
           title: "Using the Website",
-          desc: `When a user registers an account with the website we privately track and store either the unique Discord ID of the user or the unique Email of the registered user. When a user submits responses we store:
-          When registered using Discord, we associate the unique Discord ID with each submitted response
+          desc: `When a user registers an account with the website we privately track and store the unique Email of the registered user. When a user submits responses we store:
           When registered using Email, we associate a unique pseudonymous ID with each submitted response`,
         },
       ],
@@ -95,7 +89,7 @@ const PrivacyPolicy = () => {
     {
       number: "5",
       title: "Processors",
-      desc: "In principle, we will never pass on your personal data to third parties without your explicit consent. However, just as every modern business we cooperate with data processors in order to be able to offer you the best possible uninterrupted service. When we cooperate with external service providers, regular order processing is performed, based on Article 28 GDPR. For this purpose, we enter into respective agreements with our partners, in order to safeguard the protection of your data. For processing your data, we only use carefully selected processors. They are bound by our instructions, and regularly controlled by us. We only commission external service provider who have guaranteed that all data processing procedures are performed in unison with data protection regulations. Receivers of personal data may be: Hosting companies and Hosting service providers.",
+      desc: "In principle, we will never pass on your personal data to third parties without your explicit consent. However, just as every modern business we cooperate with data processors in order to be able to offer you the best possible uninterrupted service. When we cooperate with external service providers, regular order processing is performed, based on Article 28 GDPR. For this purpose, we enter into respective agreements with our partners, in order to safeguard the protection of your data. For processing your data, we only use carefully selected processors. They are bound by our instructions, and regularly controlled by us. We only commission external service provider who have guaranteed that all data processing procedures are performed in unison with data protection regulations. Receivers of personal data may be: Hosting companies and Hosting service providers. The application itself runs on our own server in one of the data-centers at the University of Applied Sciences Ansbach.",
       sections: [],
     },
     {
@@ -182,7 +176,7 @@ const PrivacyPolicy = () => {
                   Overview
                 </Heading>
                 <Text>
-                  We are pleased that you are interested in our work and welcome you to our website laion.ai. In this
+                  We are pleased that you are interested in our work and welcome you to our website jupyter.hs-ansbach.de. In this
                   Privacy Policy you will learn which personal data we process when you visit our website and to what
                   kind of purpose, and also what rights you have regarding these data. Categorically, we only store data
                   as long as we need them. There is no legal obligation to provide us with personal data. Automated
@@ -211,8 +205,8 @@ const PrivacyPolicy = () => {
               </Heading>
               <Text>
                 Email:{" "}
-                <Link href="mailto:privacy@open-assistant.io" color="blue.500" fontWeight="bold">
-                  privacy@open-assistant.io
+                <Link href="mailto:dias@hs-ansbach.de" color="blue.500" fontWeight="bold">
+                  dias@hs-ansbach.de
                 </Link>
               </Text>
             </Stack>
