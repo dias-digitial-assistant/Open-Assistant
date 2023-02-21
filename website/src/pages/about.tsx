@@ -1,5 +1,4 @@
 import Image from "next/image";
-import { CallToAction } from "src/components/CallToAction";
 import { Container } from "src/components/Container";
 import Roadmap from "src/components/Roadmap";
 import Services from "src/components/Services";
@@ -32,7 +31,6 @@ const AboutPage = () => {
       <Services />
       <Vision />
       <Roadmap />
-      <CallToAction />
     </div>
   );
 };

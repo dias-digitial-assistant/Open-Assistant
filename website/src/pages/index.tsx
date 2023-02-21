@@ -4,7 +4,6 @@ import { useRouter } from "next/router";
 import { useSession } from "next-auth/react";
 import { useTranslation } from "next-i18next";
 import { useEffect } from "react";
-import { CallToAction } from "src/components/CallToAction";
 import { Faq } from "src/components/Faq";
 import { Hero } from "src/components/Hero";
 import { getTransparentHeaderLayout } from "src/components/Layout";
@@ -27,7 +26,6 @@ const Home = () => {
       </Head>
       <Box as="main" className="oa-basic-theme">
         <Hero />
-        <CallToAction />
         <Faq />
       </Box>
     </>
