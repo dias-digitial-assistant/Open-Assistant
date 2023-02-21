@@ -36,8 +36,11 @@ export function Header() {
       <Box display="flex" justifyContent="space-between" p="4">
         <Link href={homeURL} aria-label="Home">
           <Flex alignItems="center">
-            <Image src="/images/logos/logo.svg" className="mx-auto object-fill" width="50" height="50" alt="logo" />
+            <Image src="/images/logos/logo.svg" className="mx-auto object-fill" width="100" height="50" alt="logo" />
             <Text fontFamily="inter" fontSize={["lg", "2xl"]} fontWeight="bold" ml="3" className="hidden sm:block">
+              {t("title_DIAS")}
+            </Text>
+            <Text fontFamily="inter" fontSize={["xs", "sm"]} fontWeight="bold" ml="3" className="hidden sm:block">
               {t("title")}
             </Text>
           </Flex>
