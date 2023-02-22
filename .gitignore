@@ -10,3 +10,4 @@ letsencrypt
 
 # Generated files
 backend/openapi.json
+docker-compose.yml
