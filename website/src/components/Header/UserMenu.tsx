@@ -49,13 +49,7 @@ export function UserMenu() {
       href: "/account",
       icon: Settings,
       isExternal: false,
-    },
-    {
-      name: t("report_a_bug"),
-      href: "https://github.com/LAION-AI/Open-Assistant/issues/new/choose",
-      icon: AlertTriangle,
-      isExternal: true,
-    },
+    }
   ];
 
   if (isAdminOrMod) {

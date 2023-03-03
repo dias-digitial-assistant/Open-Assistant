@@ -25,16 +25,6 @@ function ServerError() {
             variant="solid"
             size="xs"
           >
-            <Link
-              key="Report a Bug"
-              href="https://github.com/LAION-AI/Open-Assistant/issues/new/choose"
-              aria-label="Report a Bug"
-              className="flex items-center"
-              _hover={{ textDecoration: "none" }}
-              isExternal
-            >
-              Report a Bug
-            </Link>
           </Button>
         </Box>
       </Center>
