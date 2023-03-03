@@ -1,12 +1,17 @@
 {
-  "blurb": "Wir glauben, dass wir etwas Revolutionäres erschaffen können.",
-  "blurb1": "Genauso wie Stable Diffusion es ermöglicht hat, Kunst und Bilder auf neue Weise zu erschaffen, wollen wir die Welt verbessern, indem wir eine erstklassige Konversations-KI bereitstellen.",
+  "blurb": "Wir sind der Meinung, dass jeder Zugang zu einer \"Konversations-KI\" haben sollte.",
+  "blurb1": "Das gilt auch für die deutsche Sprache, die auf Platz 11 der meistgesprochenen Sprachen steht. Trainingsdaten aus dem Internet können jedoch Vorurteile, unhöfliche Sprache oder sogar Hassreden enthalten. Um sicherzustellen, dass unser Chatbot frei von diesen unerwünschten Elementen bleibt, müssen wir einen sauberen und neutralen Datensatz erstellen. Dies ist nur mit Ihrer Hilfe möglich. Wir bitten Sie daher um Ihre Unterstützung bei der Erstellung eines hochwertigen Datensatzes für unser Sprachmodell. Indem Sie sich an Unterhaltungen beteiligen und vorgegebene Aufgaben erledigen, können Sie uns helfen, einen zuverlässigen und effektiven Bot zu erstellen.",
   "description": "Konversations-KI für alle. Ein Open-Source-Projekt zur Erstellung eines Chat-fähigen GPT LLM, das von LAION und Mitwirkenden auf der ganzen Welt betrieben wird.",
   "faq_items": {
     "q0": "Was ist der aktuelle Stand des Projekts?",
     "a0": "Wir befinden uns in einem frühen Stadium der Entwicklung und arbeiten ausgehend von etablierter Forschung bei der Anwendung von RLHF auf große Sprachmodelle (LLMs).",
     "q1": "Wer organisiert die Entwicklung von Open Assistant?",
-    "a1": "Open Assistant ist ein Projekt, das von LAION und Einzelpersonen auf der ganzen Welt organisiert wird. Unser Ziel ist es das Open Assistant Sprachmodell allen Menschen frei zugänglich zu machen."
+    "a1": "Open Assistant ist ein Projekt, das von LAION und Einzelpersonen auf der ganzen Welt organisiert wird. Unser Ziel ist es das Open Assistant Sprachmodell allen Menschen frei zugänglich zu machen.",
+    "q2": "Was bewirkt Ihre Mithilfe?",
+    "a2": "Grundlage für ein gutes Sprachmodell ist ein qualitativ hochwertiger Trainingsdatensatz. Sprachlich korrekt formulierten Frage- / Antwortkombinationen sind somit essenziell. Mit Ihrer Unterstützung tragen Sie dazu bei, ein fortschrittliches Sprachmodell zu erstellen.",
+    "q3": "Worin besteht der Zusammenhang mit dem DIAS-Projekt?",
+    "a3": "Das Forschungsprojekt DIAS an der Hochschule Ansbach beschäftigt sich mit der Entwicklung eines digitalen Assistenten für Studium und Lehre. Die sprachlichen Fähigkeiten des Chatbots können durch hochwertige Trainingsdatensätze stets weiter verbessert werden."
+
   },
   "faq_title": "Häufig gestellte Fragen",
   "join_us_description": "Alle Open-Source-Projekte beginnen mit Leuten wie Dir! Die Open Source Softwareentwicklung ermöglicht es uns gemeinsam unser Wissen und unsere Technologie zum Wohle der Menschheit zur Verfügung stellen. Bist Du dabei? Du findest uns hier:",
