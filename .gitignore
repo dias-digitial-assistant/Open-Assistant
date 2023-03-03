@@ -6,6 +6,8 @@ venv
 *.egg-info
 __pycache__
 .DS_Store
+letsencrypt
 
 # Generated files
 backend/openapi.json
+docker-compose.yml
