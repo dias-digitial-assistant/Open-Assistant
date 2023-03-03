@@ -4,5 +4,11 @@
   "evaluate": "Auswerten",
   "go": "Los",
   "grab_a_task": "Schnappen Sie sich eine Aufgabe!",
-  "label": "Label"
+  "label": "Label",
+  "welcome_message": {
+    "label": "Herzlich Willkommen",
+    "contributor": "Contributor",
+    "description": "DIAS-Data-Collector ist ein Open-Source-Tool zum Sammeln von Trainingsdaten in Form von Frage- / Antwortkombinationen, welche von Menschen formuliert werden. Die Satzkombinationen werden dann zu einem qualitativ hochwertigen Trainingsdatensatz zusammengetragen.",
+    "instruction": "Durch das Erledigen einer Aufgabe verbesserst Du mit Deiner Mithilfe das Sprachmodell und sammelst zugleich Punkte."
+  }
 }
