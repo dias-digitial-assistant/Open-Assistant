@@ -4,13 +4,11 @@
   "description": "Konversations-KI für alle. Ein Open-Source-Projekt zur Erstellung eines Chat-fähigen GPT LLM, das von LAION und Mitwirkenden auf der ganzen Welt betrieben wird.",
   "faq_items": {
     "q0": "Was ist der aktuelle Stand des Projekts?",
-    "a0": "Wir befinden uns in einem frühen Stadium der Entwicklung und arbeiten ausgehend von etablierter Forschung bei der Anwendung von RLHF auf große Sprachmodelle (LLMs).",
-    "q1": "Wer organisiert die Entwicklung von Open Assistant?",
-    "a1": "Open Assistant ist ein Projekt, das von LAION und Einzelpersonen auf der ganzen Welt organisiert wird. Unser Ziel ist es das Open Assistant Sprachmodell allen Menschen frei zugänglich zu machen.",
-    "q2": "Was bewirkt Ihre Mithilfe?",
-    "a2": "Grundlage für ein gutes Sprachmodell ist ein qualitativ hochwertiger Trainingsdatensatz. Sprachlich korrekt formulierten Frage- / Antwortkombinationen sind somit essenziell. Mit Ihrer Unterstützung tragen Sie dazu bei, ein fortschrittliches Sprachmodell zu erstellen.",
-    "q3": "Worin besteht der Zusammenhang mit dem DIAS-Projekt?",
-    "a3": "Das Forschungsprojekt DIAS an der Hochschule Ansbach beschäftigt sich mit der Entwicklung eines digitalen Assistenten für Studium und Lehre. Die sprachlichen Fähigkeiten des Chatbots können durch hochwertige Trainingsdatensätze stets weiter verbessert werden."
+    "a0": "Wir stehen noch ganz am Anfang und arbeiten aktuell an der Bereitstellung des Software-Tools zur Beschaffung von Datensätzen. Unser Ziel ist es mit Hilfe des so erstellten Trainingsdatensatzes ein fortschrittliches KI-Sprachmodell für die deutsche Sprache zu entwickeln.",
+    "q1": "Was bewirkt Ihre Mithilfe?",
+    "a1": "Grundlage für ein gutes Sprachmodell ist ein qualitativ hochwertiger Trainingsdatensatz. Sprachlich korrekt formulierten Frage- / Antwortkombinationen sind somit essenziell. Mit Ihrer Unterstützung tragen Sie dazu bei, ein fortschrittliches Sprachmodell zu erstellen.",
+    "q2": "Worin besteht der Zusammenhang mit dem DIAS-Projekt?",
+    "a2": "Das Forschungsprojekt DIAS an der Hochschule Ansbach beschäftigt sich mit der Entwicklung eines digitalen Assistenten für Studium und Lehre. Die sprachlichen Fähigkeiten des Chatbots können durch hochwertige Trainingsdatensätze stets weiter verbessert werden."
 
   },
   "faq_title": "Häufig gestellte Fragen",
